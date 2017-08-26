@@ -2,7 +2,7 @@
 
 This repository comprises a C# implementation of a 10-pin bowling score calculator. The goal of this implementation has been to promote a readable and maintainable solution. There is no doubt the code could be easily compressed, yet the focus has been on making the implementation easily understandable (to a human).
 
-Also implemented is a score-calculator validator, which may be used to validate the score-calculator implementation, against a dedicated REST api for this designated purpore.
+Also implemented is a score-calculator validator, which may be used to validate the score-calculator implementation, against a dedicated REST api for this designated purpose.
 
 Also included is a unit-test project, covering both projects.
 
